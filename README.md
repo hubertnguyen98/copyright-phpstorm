@@ -1,6 +1,7 @@
 # copyright-phpstorm
 
-'Landofcoder
+`
+Landofcoder
 NOTICE OF LICENSE
 This source file is subject to the Landofcoder.com license that is
 available through the world-wide-web at this URL:
@@ -11,4 +12,5 @@ version in the future.
 @category   Landofcoder
 @package    Lof_FlashSales
 @copyright  Copyright (c) 2021 Landofcoder (https://www.landofcoder.com/)
-@license    https://landofcoder.com/terms'
+@license    https://landofcoder.com/terms
+`
